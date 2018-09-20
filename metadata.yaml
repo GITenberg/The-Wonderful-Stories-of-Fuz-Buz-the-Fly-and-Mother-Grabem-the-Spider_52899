@@ -1,5 +1,8 @@
 _repo: The-Wonderful-Stories-of-Fuz-Buz-the-Fly-and-Mother-Grabem-the-Spider_52899
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52899-h/images/cover.jpg
 creator:
   author:
     agent_name: Mitchell, S. Weir (Silas Weir)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/357
     wikipedia: http://en.wikipedia.org/wiki/Silas_Weir_Mitchell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52899#The-Wonderful-Stories-of-Fuz-Buz-the-Fly-and-Mother-Grabem-the-Spider
 gutenberg_issued: '2016-08-26'
 gutenberg_type: Text
 identifiers:
